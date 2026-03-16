@@ -1,5 +1,15 @@
 # Trabalhando Aplicacoes Serverless na Azure
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Microsoft_Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![License-MIT](https://img.shields.io/badge/License--MIT-yellow?style=for-the-badge)
+
+</div>
+
+
 ## Projeto DIO - Microsoft Azure Advanced #2
 
 Este repositorio documenta o projeto pratico sobre aplicacoes serverless na Azure, explorando Azure Functions, Logic Apps e Service Bus.
